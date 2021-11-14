@@ -1,6 +1,5 @@
 <h1>Prazer, sou o Lucas!<br>
 
-  #
   
 <div align="center">
   <a href="https://github.com/lima1301lucas">
