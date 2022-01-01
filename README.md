@@ -2,6 +2,12 @@
  <h1>Prazer, eu sou o Lucas!
 </div>
   
+### Hello, my name is José 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-José%20Thomaz-3733dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-thomaz-antunes-soares-2056ab199/)](https://www.linkedin.com/in/jos%C3%A9-thomaz-antunes-soares-2056ab199/) 
+[![Gmail Badge](https://img.shields.io/badge/-josethomaz2003@gmail.com-3733dd?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:josethomaz2003@gmail.com)
+
+ 
 <div align="center">
   <a href="https://github.com/lima1301lucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lima1301lucas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
