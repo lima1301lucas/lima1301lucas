@@ -11,7 +11,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Lima-3733dd?style=flat-square&logo=Linkedin&logoColor=white&width=50em&link=https://www.linkedin.com/in/lucas-lima-1301/)](https://www.linkedin.com/in/lucas-lima-1301/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Lima-3733dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lima-1301/)](https://www.linkedin.com/in/lucas-lima-1301/) 
 
    
    
