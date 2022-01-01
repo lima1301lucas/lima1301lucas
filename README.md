@@ -2,7 +2,7 @@
  <h1>Prazer, eu sou o Lucas!
 </div>
 
- <div align="center">
+ <div align-items="flex-start">
  
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Lima-3733dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lima-1301/)](https://www.linkedin.com/in/lucas-lima-1301/) 
   
