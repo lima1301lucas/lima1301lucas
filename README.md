@@ -1,13 +1,10 @@
 <div> 
  <h1>Prazer, eu sou o Lucas!
 </div>
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Lima-3733dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lima-1301/)](https://www.linkedin.com/in/lucas-lima-1301/) 
- 
  
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Lima-3733dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lima-1301/)](https://www.linkedin.com/in/lucas-lima-1301/) 
   
 [![Gmail Badge](https://img.shields.io/badge/-lima1301lucas@gmail.com-3733dd?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lima1301lucas@gmail.com)](mailto:lima1301lucas@gmail.com)
-
  
 <div align="center">
   <a href="https://github.com/lima1301lucas">
