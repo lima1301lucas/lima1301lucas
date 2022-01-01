@@ -4,9 +4,7 @@
 
 <div align-items="flex">
  
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Lima-3733dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lima-1301/)](https://www.linkedin.com/in/lucas-lima-1301/) 
-  
-[![Gmail Badge](https://img.shields.io/badge/-lima1301lucas@gmail.com-3733dd?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lima1301lucas@gmail.com)](mailto:lima1301lucas@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Lima-3733dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lima-1301/)](https://www.linkedin.com/in/lucas-lima-1301/) [![Gmail Badge](https://img.shields.io/badge/-lima1301lucas@gmail.com-3733dd?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lima1301lucas@gmail.com)](mailto:lima1301lucas@gmail.com)
  
   ✱ Teste
  
