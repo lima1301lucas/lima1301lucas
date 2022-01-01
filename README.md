@@ -9,10 +9,9 @@
   <a href = "mailto:lima1301lucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lima-1301-lucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-José%20Thomaz-3733dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lima-1301/)](https://www.linkedin.com/in/lucas-lima-1301/) 
-   
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Lima-3733dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lima-1301/)](https://www.linkedin.com/in/lucas-lima-1301/) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Lima-3733dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lima-1301/)](https://www.linkedin.com/in/lucas-lima-1301/) 
 
    
    
