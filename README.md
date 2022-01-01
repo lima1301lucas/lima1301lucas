@@ -16,5 +16,5 @@
    
    
 
-[![Gmail Badge](https://img.shields.io/badge/-josethomaz2003@gmail.com-3733dd?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:josethomaz2003@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lima1301lucas@gmail.com-3733dd?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lima1301lucas@gmail.com)](mailto:lima1301lucas@gmail.com)
 </div>
