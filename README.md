@@ -8,6 +8,8 @@
   
 [![Gmail Badge](https://img.shields.io/badge/-lima1301lucas@gmail.com-3733dd?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lima1301lucas@gmail.com)](mailto:lima1301lucas@gmail.com)
  
+  ✱ Teste
+ 
  </div>
  
 <div align="center">
