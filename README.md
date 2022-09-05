@@ -1,6 +1,9 @@
 <div> 
  <h1>Prazer, eu sou o Lucas!
 </div>
+
+ <a href="https://github.com/lima1301lucas/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lima1301lucas&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
  
 <div>
   <a href="https://github.com/lima1301lucas">
