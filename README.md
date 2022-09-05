@@ -1,9 +1,9 @@
 <div> 
  <h1>Prazer, eu sou o Lucas!
 </div>
-
+<div align="center">
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lima1301lucas&theme=react)](https://git.io/streak-stats)
- 
+ </div>
 <div>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lima1301lucas&theme=react)](https://git.io/streak-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lima1301lucas&layout=compact&langs_count=7&theme=react"/>
