@@ -11,9 +11,9 @@
  <br/>
  <h3>Sobre mim</h3>
  :round_pushpin: Moro em São Paulo <br/>
- :man_technologist: Sou UI Designer e Front-End Developer <br/>
- :mortar_board: Estudante do 4º semeste de ADS na Fatec São Paulo <br/>
- :computer: Atualmente trabalho como Trainne de TI na Infocar
+ :man_technologist: Sou UI Designer e Front-End Dev <br/>
+ :mortar_board: Estudante do 4º semeste de ADS na Fatec SP<br/>
+ :computer: Atuo como Trainne de TI na Infocar
  
  <br/>
  <h3>Redes sociais</h3>
@@ -22,3 +22,6 @@
  <a href="https://www.behance.net/lucas-lima-1301 target="_blank"> <img height="27px" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
  <a href="https://github.com/lima1301lucas" target="_blank"> <img height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
+
+ <br/>
+ <h3></h3>
