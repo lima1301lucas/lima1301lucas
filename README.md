@@ -8,7 +8,6 @@
  <img align="right" width="500px" src="https://user-images.githubusercontent.com/56768879/188740161-c24f770c-934c-4096-88e7-592e5a89f96d.png"/> 
  <br/>
  <br/>
- <br/>
  <h3>Sobre mim</h3>
  :round_pushpin: Moro em São Paulo <br/>
  :man_technologist: Sou UI Designer e Front-End Dev <br/>
