@@ -10,6 +10,7 @@
  
  <br/>
  <br/>
+  <br/>
  <h3>Sobre mim</h3>
  :round_pushpin: Moro em São Paulo <br/>
  :man_technologist: Sou UI Designer e Front-End Developer <br/>
@@ -17,7 +18,7 @@
  :computer: Atualmente trabalho como Trainne de TI na Infocar
  
  
-<br/>  <br/>
+<br/>
   <h3>Redes sociais</h3>
   <a href = "mailto:lima1301lucas@gmail.com"><img height="27px" src="https://img.shields.io/badge/-Gmail-E6E6FA?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-lima-1301/" target="_blank"><img height="28px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
