@@ -37,7 +37,6 @@
 <div>
  <h2>Estatísticas do meu GitHub</h2>
  <div align="center">
- <img alt="Subham Raoniar's" height="189px" streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lima1301lucas&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/>
- <a href="https://github.com/lima1301lucas/github-readme-stats"><img alt="Davidson  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lima1301lucas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0&width="50%"" /></a>
+ <img height="189px" streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lima1301lucas&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/>
 </div>
 </div>
