@@ -12,7 +12,7 @@
  <h3>Sobre mim</h3>
  :round_pushpin: Moro em São Paulo <br/>
  :man_technologist: Sou UI Designer e Front-End Dev <br/>
- :mortar_board: Estudante do 4º semeste de ADS na Fatec SP<br/>
+ :mortar_board: Estudante do 5º semeste de ADS na Fatec SP<br/>
  :computer: Atuo como Trainne de TI na Infocar
  
  <br/>
