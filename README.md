@@ -38,7 +38,7 @@
 <div>
  <h2>Estatísticas do meu GitHub</h2>
  <div align="flex">
- <img height="200px" widht="50%" streak" src="https://github-readme-stats.vercel.app/api?username=lima1301lucas&theme=react&show_icons=true&hide_border=true&count_private=true"/>
- <img height="200px" widht="50%" streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lima1301lucas&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+ <img height="200px" widht="45%" streak" src="https://github-readme-stats.vercel.app/api?username=lima1301lucas&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+ <img height="200px" widht="45%" streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lima1301lucas&theme=react&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 </div>
