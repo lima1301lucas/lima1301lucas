@@ -1,5 +1,5 @@
 <div> 
- <h1 align="center"> Olá, eu sou o Lucas!	:v:
+ <h1 align="center"> Olá, eu sou o Lucas!
 </div>
 
  <br/>
