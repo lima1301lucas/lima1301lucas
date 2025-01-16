@@ -11,18 +11,19 @@
  
  <h3>Sobre mim</h3>
  :round_pushpin: Moro em São Paulo <br/>
- :man_technologist: Estou estudando sobre Front-End<br/>
- :mortar_board: Graduado em ADS na Fatec SP<br/>
+ :man_technologist: Estudando para ser um dev full-stack<br/>
+ :mortar_board: Graduado em ADS pela Fatec SP<br/>
  :computer: Analista de Sistemas Jr na Infocar
  
  <br/>
    
   <h3>Linguagens e ferramentas</h3>
+  <img align="center" alt="DV-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="DV-REACT" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="DV-PYTHON" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="DV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="DV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="DV-SASS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="DV-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="DV-REACT" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="DV-GIT" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="DV-XD" height="32" width="42" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg">
   <img align="center" alt="DV-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
